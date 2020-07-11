@@ -1,0 +1,13 @@
+C:\RepoGit\tpn10-PavonEvelin\TP10-TDL\Punto1\bin\Debug\netcoreapp3.1\Punto1.exe
+C:\RepoGit\tpn10-PavonEvelin\TP10-TDL\Punto1\bin\Debug\netcoreapp3.1\Punto1.deps.json
+C:\RepoGit\tpn10-PavonEvelin\TP10-TDL\Punto1\bin\Debug\netcoreapp3.1\Punto1.runtimeconfig.json
+C:\RepoGit\tpn10-PavonEvelin\TP10-TDL\Punto1\bin\Debug\netcoreapp3.1\Punto1.runtimeconfig.dev.json
+C:\RepoGit\tpn10-PavonEvelin\TP10-TDL\Punto1\bin\Debug\netcoreapp3.1\Punto1.dll
+C:\RepoGit\tpn10-PavonEvelin\TP10-TDL\Punto1\bin\Debug\netcoreapp3.1\Punto1.pdb
+C:\RepoGit\tpn10-PavonEvelin\TP10-TDL\Punto1\obj\Debug\netcoreapp3.1\Punto1.csprojAssemblyReference.cache
+C:\RepoGit\tpn10-PavonEvelin\TP10-TDL\Punto1\obj\Debug\netcoreapp3.1\Punto1.AssemblyInfoInputs.cache
+C:\RepoGit\tpn10-PavonEvelin\TP10-TDL\Punto1\obj\Debug\netcoreapp3.1\Punto1.AssemblyInfo.cs
+C:\RepoGit\tpn10-PavonEvelin\TP10-TDL\Punto1\obj\Debug\netcoreapp3.1\Punto1.csproj.CoreCompileInputs.cache
+C:\RepoGit\tpn10-PavonEvelin\TP10-TDL\Punto1\obj\Debug\netcoreapp3.1\Punto1.dll
+C:\RepoGit\tpn10-PavonEvelin\TP10-TDL\Punto1\obj\Debug\netcoreapp3.1\Punto1.pdb
+C:\RepoGit\tpn10-PavonEvelin\TP10-TDL\Punto1\obj\Debug\netcoreapp3.1\Punto1.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PhBUMvh/prr/1t4e9I3JxJLXXCb4XzgRRVf+kaIO5kxO2AhfIKwzLvDWbzTeldf2nfbt6gVdo5F/+u+l7KPYXg==",
+  "success": true,
+  "projectFilePath": "C:\\RepoGit\\tpn10-PavonEvelin\\TP10-TDL\\Punto1\\Punto1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eveli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
